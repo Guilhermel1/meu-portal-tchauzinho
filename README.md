@@ -1,19 +1,11 @@
-# Basic Sample Hardhat Project
+# Construção de um App com Solidity + Ethereum Smart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Este projeto foi desenvolvido junto com o Bootcamp da comunidade [WEB3DEV](https://bootcamp.web3dev.com.br/). 
 
-Try running some of the following tasks:
+A WEB3DEV é uma comunidade focada em desenvolver o mercado brasileiro de Web3 e é totalmente opensource. Se estiver interessado, podes entrar no [Discord da comunidade](https://discord.web3dev.com.br/) e assim também se apronfundar nessa área tão embrionária.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+O Objetivo do principal era criar um projeto na Blockchain da Polygon (MATIC) que roda na rede Etherium, conectar essa contrato com carteira Metamask e fazer algumas etapas de alteralções no App para interação com usuários. A rede utilizada para o projeto foi a Rinkeby, que é uma testnet, simulando um ambiente real.
 
-Este projeto foi desenvolvido junto com o Bootcamp da comunidade WEB3DEV. Ele tem como objetivo principal criar um projeto na Blockchain da Polygon (MATIC) que roda na rede Etherium.
+Para interagir, você precisa ter uma carteira Metamask, possuir faucets de Eth e habilitar sua carteira para a rede testnet Rinkeby.
 
-para ter acesso ao projeto acesse ele link (colocar link)
+Para acesso ao projeto acesse esse link: [https://projeto-tchauzinho--guilhermel11.repl.co/](https://projeto-tchauzinho--guilhermel11.repl.co/)
